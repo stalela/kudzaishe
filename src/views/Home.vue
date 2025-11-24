@@ -1,6 +1,5 @@
 <template>
   <div class="landing-container">
-    <!-- NAVIGATION -->
     <nav class="vertical-nav">
       <router-link to="/" class="nav-item active">Home</router-link>
       <router-link to="/experience" class="nav-item">Experience</router-link>
@@ -9,9 +8,7 @@
       <router-link to="/blogs" class="nav-item">Blogs</router-link>
     </nav>
 
-    <!-- MAIN CONTENT -->
     <main class="content">
-      <!-- HEADER -->
       <header class="landing-header">
         <img src="/kudzigeorge.jpg" alt="Kudzaishe Zharare" class="avatar">
 
@@ -26,7 +23,7 @@
       <div class="welcome-text">
         <p>
           Systems architect specializing in distributed systems, digital identity, and AI agent protocols.
-          Currently building payment infrastructure at Cleva, previously co-founded FlexID (acquired by CBZ Bank).
+          Currently working on adding a trusted digital identity layer to the Agent2Agent (A2A) protocol.
         </p>
       </div>
     </main>
@@ -109,7 +106,7 @@ export default {
 }
 
 .bio {
-  color: var(--text-secondary);
+  color: var(--text-primary);
   font-size: 14px;
   line-height: 1.5;
 }
@@ -121,7 +118,7 @@ export default {
 .welcome-text p {
   font-size: 15px;
   line-height: 1.6;
-  color: var(--text-secondary);
+  color: var(--text-primary);
   margin: 0;
 }
 </style>

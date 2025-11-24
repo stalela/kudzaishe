@@ -124,7 +124,7 @@ h2 {
 
 .meta {
   flex: 0 0 130px;
-  color: var(--text-secondary);
+  color: var(--text-primary);
   font-size: 13px;
   font-variant-numeric: tabular-nums;
 }
@@ -147,7 +147,7 @@ a.title:hover {
 }
 
 .desc {
-  color: var(--text-secondary);
+  color: var(--text-primary);
   font-size: 13.5px;
   line-height: 1.5;
 }

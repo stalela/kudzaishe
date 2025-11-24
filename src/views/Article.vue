@@ -93,7 +93,7 @@
     <hr style="border: 0; border-top: 1px solid var(--border);">
     <br>
 
-    <p style="font-size: 13px; color: var(--text-secondary);">
+    <p style="font-size: 13px; color: var(--text-primary);">
       <em>Originally published on Medium (2020). Refined for 2025.</em>
     </p>
   </div>

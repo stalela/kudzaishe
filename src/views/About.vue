@@ -124,7 +124,7 @@ export default {
 }
 
 .bio {
-  color: var(--text-secondary);
+  color: var(--text-primary);
   font-size: 14px;
   line-height: 1.5;
 }
@@ -148,7 +148,7 @@ h2 {
 
 .meta {
   flex: 0 0 130px;
-  color: var(--text-secondary);
+  color: var(--text-primary);
   font-size: 13px;
   font-variant-numeric: tabular-nums;
 }
@@ -165,7 +165,7 @@ h2 {
 }
 
 .desc {
-  color: var(--text-secondary);
+  color: var(--text-primary);
   font-size: 13.5px;
   line-height: 1.5;
 }

@@ -150,7 +150,7 @@
       <div class="node">Verifier</div>
     </div>
 
-    <p style="font-size: 13px; color: var(--text-secondary); text-align: center; margin-top: -20px;">
+    <p style="font-size: 13px; color: var(--text-primary); text-align: center; margin-top: -20px;">
       Fig 1. The Value Flow: Turning "Claims" into "Insured Assets"
     </p>
 
@@ -180,7 +180,7 @@
     <hr style="border: 0; border-top: 1px solid var(--border);">
     <br>
 
-    <p style="font-size: 13px; color: var(--text-secondary);">
+    <p style="font-size: 13px; color: var(--text-primary);">
       <em>Originally published as part of FlexID's technical whitepaper (2021-2023). Co-founded by Kudzaishe Zharare.</em>
     </p>
   </div>
