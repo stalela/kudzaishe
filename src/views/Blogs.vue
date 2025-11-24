@@ -16,7 +16,7 @@
       <div class="item">
         <div class="meta">2023-05-15</div>
         <div class="details">
-          <router-link to="/flexid" class="title">FlexID: Protocol for Insurable Identity</router-link>
+          <router-link to="/flexid" class="title">Protocol for Insurable Verifiable Credentials</router-link>
           <div class="desc">Economic mechanism design for digital trust. How insurance transforms verifiable credentials into insured assets, creating markets for identity verification.</div>
         </div>
       </div>
@@ -24,16 +24,16 @@
       <div class="item">
         <div class="meta">2025-11-24</div>
         <div class="details">
-          <router-link to="/article" class="title">Context-Aware AI in Low Bandwidth Environments</router-link>
-          <div class="desc">How to deploy resilient agents where connectivity is intermittent.</div>
+          <router-link to="/article" class="title">Recursive Architecture: The Algorithmic Design of Ba-Ila Settlements</router-link>
+          <div class="desc">How the Ba-Ila people of Zambia perfected "Infrastructure as Code" centuries ago using fractal algorithms to build scalable, fault-tolerant settlements.</div>
         </div>
       </div>
 
       <div class="item">
         <div class="meta">2025-08-14</div>
         <div class="details">
-          <a href="#" class="title">The Future of Digital Identity in Africa</a>
-          <div class="desc">Why mobile-first identity rails will leapfrog legacy systems.</div>
+          <router-link to="/identity" class="title">The Future of African Fintech</router-link>
+          <div class="desc">Why embedded finance rails will leapfrog legacy systems. A commentary on the evolution of African Fintech towards embedded finance and open ecosystems.</div>
         </div>
       </div>
     </main>

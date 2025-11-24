@@ -14,26 +14,41 @@
       <h1>Experience</h1>
 
       <div class="item">
-        <div class="meta">2024 — Present</div>
+        <div class="meta">2025 — Present</div>
         <div class="details">
-          <span class="title">Senior Backend Engineer @ Cleva (YC W24)</span>
-          <div class="desc">Architecting fault-tolerant payment systems on AWS for 500k+ users. Ensuring audit-grade observability.</div>
+          <span class="title">Tech Lead @ Stalela</span>
+          <div class="desc">Building the future of agentic payments. Adding a trust layer and verifiable proof of intent to Agentic Payments.</div>
         </div>
+      </div>
+
+      <div class="item">
+        <div class="meta">2024 — 2025</div>
+        <div class="details">
+          <span class="title"> Senior Software Engineer @ Cleva (YC W24)</span>
+            <div class="desc">Architected fault-tolerant KYC, AML, and Security systems.</div>
+          </div>
       </div>
 
       <div class="item">
         <div class="meta">2021 — 2023</div>
         <div class="details">
-          <span class="title">CTO / Lead Engineer @ FlexID</span>
-          <div class="desc">Co-founded a decentralized identity platform (WEF Tech Pioneer). Acquired by CBZ Bank. Built on Algorand & Go.</div>
+          <span class="title">Co Founder and CTO @ FlexID</span>
+          <div class="desc">Co-founded a decentralized identity platform (WEF Tech Pioneer). Built on Algorand & Go.</div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="meta">2020 — 2021</div>
+        <div class="details">
+          <span class="title">Co Founder and CTO @ Mutapa</span>
+          <div class="desc">Lead the payment integration for 200 of the top merchants in Zimbabwe. Acquired by the largest commercial bank in Zimbabwe.</div>
         </div>
       </div>
 
       <div class="item">
-        <div class="meta">2019 — 2021</div>
+        <div class="meta">2020 — 2021</div>
         <div class="details">
           <span class="title">Software Engineer @ The World Bank</span>
-          <div class="desc">Led the DRIVER project to digitize national road safety data in Zimbabwe.</div>
+          <div class="desc">Engineering lead for the World Bank's DRIVER (Data for Road Incident Visualization, Evaluation, and Reporting) project in Zimbabwe.</div>
         </div>
       </div>
     </main>

@@ -17,31 +17,32 @@
         <div class="meta">Open Source</div>
         <div class="details">
           <a href="https://github.com/stalela/bantu-grammar-engine" class="title">Bantu Grammar Engine</a>
-          <div class="desc">Python library for validating Shona text against machine-readable grammar rules using JSON-Logic. Morphological analysis and linguistic validation for Bantu languages.</div>
+          <div class="desc">Python library for validating Shona text against machine-readable grammar rules. Morphological analysis and linguistic validation for Bantu languages, based on the gammar constructions in Fortune's Shona Grammatical Constructions Vol. I and Vol. II, etc.</div>
         </div>
       </div>
 
       <div class="item">
         <div class="meta">Protocol</div>
         <div class="details">
-          <a href="https://github.com/google-agentic-commerce/AP2" class="title">Agent Payments Protocol (AP2)</a>
-          <div class="desc">Enabling agent-to-agent commerce through automated payment flows. Google-led specification for AI agents to conduct financial transactions securely.</div>
+          <a href="https://github.com/google-agentic-commerce/AP2" class="title">Agent Payments Protocol</a>
+          <div class="desc">Contributed to the development of the Agent Payments Protocol (AP2), enabling agent-to-agent commerce through automated payment flows. Google-led specification for AI agents to conduct financial transactions securely. Extended to other payments methods used in African markets</div>
+        </div>
+      </div>
+
+
+      <div class="item">
+        <div class="meta">Geospatial</div>
+        <div class="details">
+          <a href="https://github.com/kudzigeorge/gosper-open-location-code" class="title">Gosper Open Location Code</a>
+          <div class="desc">Pure-Python hierarchical geocoder using Gosper curves. Encodes lat/lng coordinates into compact deterministic strings with seven-way branching pattern. Includes code shortening, recovery, and OLC comparison. Generates shorter codes to easily and accurately communicate location in speech and in writing</div>
         </div>
       </div>
 
       <div class="item">
         <div class="meta">Extension</div>
         <div class="details">
-          <a href="https://github.com/stalela/a2a-x402" class="title">A2A x402 Extension</a>
-          <div class="desc">Cryptocurrency payments extension for the A2A protocol. Enables agents to monetize services through on-chain payments, reviving HTTP 402 for decentralized agent ecosystems.</div>
-        </div>
-      </div>
-
-      <div class="item">
-        <div class="meta">Geospatial</div>
-        <div class="details">
-          <a href="https://github.com/kudzigeorge/gosper-open-location-code" class="title">Gosper Open Location Code</a>
-          <div class="desc">Pure-Python hierarchical geocoder using Gosper curves. Encodes lat/lng coordinates into compact deterministic strings with seven-way branching pattern. Includes code shortening, recovery, and OLC comparison.</div>
+          <router-link to="/flexid" class="title">Protocol for Insurable Verifiable Credentials</router-link>
+          <div class="desc">Designed a protocol for attaching financial liability to verifiable credentials. Transforming identity verification from a boolean check into a risk assessment market where issuers stake funds to guarantee the accuracy of their claims (e.g., KYC data).</div>
         </div>
       </div>
     </main>

@@ -23,7 +23,11 @@
       <div class="welcome-text">
         <p>
           Systems architect specializing in distributed systems, digital identity, and AI agent protocols.
-          Currently working on adding a trusted digital identity layer to the Agent2Agent (A2A) protocol.
+          Currently working on adding adding a trust layer and verifiable proof of intent to Agentic Payments.
+        </p>
+ <br></br>
+        <p>
+          Looking forward to a future where technology is naturally embedded in our society. Contextually aware, and proactively responsive to our needs, interests, and desires. Especially in constrained realities common in developing societies.
         </p>
       </div>
     </main>

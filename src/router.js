@@ -6,6 +6,7 @@ import Projects from './views/Projects.vue'
 import Blogs from './views/Blogs.vue'
 import Article from './views/Article.vue'
 import FlexID from './views/FlexID.vue'
+import Identity from './views/Identity.vue'
 
 const routes = [
   {
@@ -42,6 +43,11 @@ const routes = [
     path: '/flexid',
     name: 'FlexID',
     component: FlexID
+  },
+  {
+    path: '/identity',
+    name: 'Identity',
+    component: Identity
   }
 ]
 

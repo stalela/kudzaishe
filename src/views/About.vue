@@ -17,7 +17,7 @@
         <div class="header-text">
           <h1>Kudzaishe George Zharare</h1>
           <div class="bio">
-            Software Engineer. Systems Architect. MIT Alum.<br>
+            Software Engineer. Solutions Architect. MIT Alum.<br>
           </div>
         </div>
       </header>
@@ -38,7 +38,7 @@
       <div class="contact-section">
         <h2>Contact</h2>
         <div class="contact-links">
-          <a href="mailto:kudzi@alum.mit.edu" class="link">Email</a>
+          <a href="mailto:kudzi@alum.mit.edu" class="link">kudzi@alum.mit.edu</a>
           <a href="https://linkedin.com/in/kudzigeorge" class="link">LinkedIn</a>
           <a href="https://github.com/kudzigeorge" class="link">GitHub</a>
           <a href="/resume.pdf" class="link">Resume.pdf</a>
