@@ -93,8 +93,8 @@ export default {
 }
 
 .avatar {
-  width: 72px;
-  height: 72px;
+  width: 144px;
+  height: 144px;
   border-radius: 50%;
   object-fit: cover;
   border: 2px solid var(--accent);

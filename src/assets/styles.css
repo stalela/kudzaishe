@@ -9,7 +9,7 @@
     --accent: #A4785A;          /* Medium Sand (Links & Highlights) */
     --border: #332F2D;          /* Lighter Obsidian for lines */
 
-    --avatar-size: 72px;
+    --avatar-size: 144px;
 }
 
 * {
@@ -150,7 +150,7 @@ a.link:hover {
             .item { flex-direction: column; gap: 4px; margin-bottom: 28px; }
             .meta { margin-bottom: 2px; font-size: 12px; color: var(--text-primary); }
             header { flex-direction: row; align-items: center; }
-            .avatar { width: 60px; height: 60px; }
+            .avatar { width: 120px; height: 120px; }
         }
 
 /* ARTICLE PAGE STYLES */
