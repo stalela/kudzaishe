@@ -22,12 +22,17 @@
 
       <div class="welcome-text">
         <p>
-          Systems architect specializing in distributed systems, digital identity, and AI agent protocols.
-          Currently working on adding adding a trust layer and verifiable proof of intent to Agentic Payments.
+          I build financial and trust infrastructure for markets that global
+          technology treats as edge cases. I am currently building Poza, a money
+          app and authorization layer for African users and AI agents. I explore
+          that problem in <a href="https://poza.co/insights/agentic-payments-proving-permission/" target="_blank" rel="noopener noreferrer">AI agents can spend money. The hard part is proving they had permission.</a>
         </p>
- <br></br>
         <p>
-          Looking forward to a future where technology is naturally embedded in our society. Contextually aware, and proactively responsive to our needs, interests, and desires. Especially in constrained realities common in developing societies.
+          Previously, I built and sold Mutapa Marketplace to CBZ Holdings, where
+          it continues as <a href="https://zikimall.com/" target="_blank" rel="noopener noreferrer">Zikimall</a>. I led
+          identity and compliance engineering at Cleva (YC W24), and served as
+          CTO and later Co-Founder of FlexID. I studied computer science and
+          mathematics at MIT.
         </p>
       </div>
     </main>
@@ -124,5 +129,13 @@ export default {
   line-height: 1.6;
   color: var(--text-primary);
   margin: 0;
+}
+
+.welcome-text p + p {
+  margin-top: 16px;
+}
+
+.welcome-text a {
+  color: var(--accent);
 }
 </style>
